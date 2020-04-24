@@ -3,9 +3,9 @@ Awesome Turing Machine Completeness
 
 ![awesome](media/badge.svg)
 
-A curated list of awesome Turing machine equivalent systems.
+A curated list of awesome Turing Machine Equivalent (TME) systems.
 
-Programming languages are not included as they are trivially Turing-Machine Equivalent (TME).
+Programming languages are not included as they are trivially Turing-Machine Equivalent.
 
 ### Contents
 

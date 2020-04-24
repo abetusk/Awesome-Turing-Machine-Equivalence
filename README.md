@@ -7,7 +7,7 @@ A curated list of awesome Turing machine equivalent systems.
 
 Programming languages are not included as they are trivially Turing-Machine Equivalent (TME).
 
-## Contents
+### Contents
 
 - [Games](#games)
 - ["Surprising"](#surprising)
